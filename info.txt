@@ -1,0 +1,17 @@
+Instalar
+- node
+- bower
+- git
+- angular-ui-router
+
+Preparando o projeto
+- git clone https://github.com/angular/material-start.git -b es5
+- cd material-start
+- npm install
+- npm install -g live-server
+- npm install --save angular-ui-router
+- liver-server .
+
+Url de Acesso
+- http://127.0.0.1:8080/app/#!/
+
